@@ -7,6 +7,10 @@ export const ReportMonth = styled.div`
     padding: 20px 0;
     overflow: scroll;
 
+    .underlineText {
+        text-decoration: underline;
+    }
+
     .reportMonth {
         &__container {
             max-width: 795px;
@@ -24,7 +28,7 @@ export const ReportMonth = styled.div`
 
     .report-info {
         text-align: center;
-    
+
         &__name {
             font-size: 14px;
             font-weight: 600;
@@ -72,7 +76,7 @@ export const ReportMonth = styled.div`
         padding-top: 15px;
         padding-left: 40px;
         padding-right: 40px;
-    
+
         &__report,  &__name {
             text-align: center;
             font-size: 14px;
@@ -97,7 +101,7 @@ export const ReportMonth = styled.div`
 
         ul {
             list-style: none;
-            
+
             li {
                 position: relative;
                 padding-bottom: 15px;
@@ -113,6 +117,19 @@ export const ReportMonth = styled.div`
                     width: 15px;
                     height: 100%;
                     left: -12px;
+                }
+            }
+        }
+
+        .checkList {
+            padding-left: 95px;
+
+            &__item {
+                &:before {
+                    content: '✓';
+                    width: 15px;
+                    height: 100%;
+                    left: -20px;
                 }
             }
         }
@@ -144,5 +161,5 @@ export const ReportMonth = styled.div`
             }
         }
     }
-    
+
 `

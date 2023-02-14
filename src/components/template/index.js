@@ -62,6 +62,35 @@ function Template() {
                         <p className="mb-0 highlight__noti">[Số liệu tự động đồng bộ với hệ thống của ANM, ngắn hạn chưa tích hợp sẽ chưa đưa vào triển khai].</p>
                     </ul>
 
+                    <h5 className="highlight__title">4. Lĩnh vực phát triển phần mềm CNTT/ Big Data hệ thống dữ liệu</h5>
+                    <ul>
+                        <li> Về sản phẩm phần mềm CNTT/ hệ thống dữ liệu (Big Data/ Data Lake/ Data Warehouse/ BI Tool):
+                            <p>Lũy kế đến tháng hiện tại Đơn vị đang phụ trách phát triển 0123 (32) sản phẩm phần mềm CNTT/ hệ thống dữ liệu. Trong đó trong tháng hiện tại:</p>
+                            <div className="listChild">
+                                <div className="listChild__item"><div className="d-inline-block text underlineText">Đang thực hiện phát triển mới</div> (bao gồm cả vận hành thử nghiệm) 0123 (33) sản phẩm phần mềm CNTT/ hệ thống dữ liệu.</div>
+                                <ul className="checkList">
+                                    <li className="checkList__item">Số sản phẩm phần mềm CNTT/ hệ thống dữ liệu chỉ phục vụ đơn vị: <span>0123.</span> (34) Trong đó số hệ thống dữ liệu là: <span>0123</span> (35)</li>
+                                    <li className="checkList__item">Số sản phẩm phần mềm CNTT/ hệ thống dữ liệu chỉ phục vụ trong nội bộ Tập đoàn: <span>0123</span>. (36) Trong đó số hệ thống dữ liệu là: <span>0123</span> (37)</li>
+                                    <li className="checkList__item">Số sản phẩm phần mềm CNTT/ hệ thống dữ liệu chỉ phục vụ khách hàng Ngoài Tập đoàn: <span>0123</span>. (38) Trong đó số hệ thống dữ liệu là: <span>0123</span> (39)</li>
+                                </ul>
+                                <div className="listChild__item"><div className="d-inline-block text underlineText">Đưa vào vận hành, sử dụng chính thức và duy trì</div> <span>0123</span> (40) sản phẩm phần mềm CNTT/ hệ thống dữ liệu</div>
+                                <ul className="checkList">
+                                    <li className="checkList__item">Số sản phẩm phần mềm CNTT/ hệ thống dữ liệu chỉ phục vụ đơn vị: <span>0123</span>. (41) Trong đó số hệ thống dữ liệu là: <span>0123</span> (42</li>
+                                    <li className="checkList__item">Số sản phẩm phần mềm CNTT/ hệ thống dữ liệu chỉ phục vụ trong nội bộ Tập đoàn: <span>0123</span>. (43) Trong đó số hệ thống dữ liệu là: <span>0123</span> (44)</li>
+                                    <li className="checkList__item">Số sản phẩm phần mềm CNTT/ hệ thống dữ liệu chỉ phục vụ khách hàng Ngoài Tập đoàn: <span>0123</span>. (45) Trong đó số hệ thống dữ liệu là: <span>0123</span> (46)</li>
+                                </ul>
+
+                                <div className="listChild__item"><div className="d-inline-block text underlineText">Có điều chỉnh, thay đổi</div> <span>0123</span> (47) sản phầm phần mềm CNTT/ hệ thống dữ liệu</div>
+                                <ul className="checkList">
+                                    <li className="checkList__item">Số sản phẩm phần mềm CNTT/ hệ thống dữ liệu chỉ phục vụ đơn vị: <span>0123</span>. (48) Trong đó số hệ thống dữ liệu là: <span>0123</span> (49)</li>
+                                    <li className="checkList__item">Số sản phẩm phần mềm CNTT/ hệ thống dữ liệu chỉ phục vụ trong nội bộ Tập đoàn: <span>0123</span>. (50) Trong đó số hệ thống dữ liệu là: <span></span> (51)</li>
+                                    <li className="checkList__item">Số sản phẩm phần mềm CNTT/ hệ thống dữ liệu chỉ phục vụ khách hàng Ngoài Tập đoàn: <span>0123</span>. (45) Trong đó số hệ thống dữ liệu là: <span>0123</span> (46)</li>
+                                </ul>
+
+                            </div>
+                        </li>
+                    </ul>
+
                 </div>
             </div>
         </div>
