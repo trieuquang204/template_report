@@ -16,8 +16,13 @@ export const ReportMonth = styled.div`
             max-width: 795px;
             margin: 0 auto;
             background-color: #fff;
-            min-height: calc(100vh - 40px);
+            height: calc(100vh - 40px);
             padding: 100px 20px 100px 90px;
+            overflow: scroll;
+
+            &::-webkit-scrollbar {
+                width: 2px;
+            }
         }
     }
 
@@ -130,6 +135,19 @@ export const ReportMonth = styled.div`
                     width: 15px;
                     height: 100%;
                     left: -20px;
+                }
+
+                &--round {
+                    &:before {
+                        position: absolute;
+                        display: block;
+                        content: '';
+                        width: 10px;
+                        height: 10px;
+                        border-radius: 50%;
+                        top: 9px;
+                        border: 1px solid #000;
+                    }
                 }
             }
         }

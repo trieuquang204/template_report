@@ -84,10 +84,95 @@ function Template() {
                                 <ul className="checkList">
                                     <li className="checkList__item">Số sản phẩm phần mềm CNTT/ hệ thống dữ liệu chỉ phục vụ đơn vị: <span>0123</span>. (48) Trong đó số hệ thống dữ liệu là: <span>0123</span> (49)</li>
                                     <li className="checkList__item">Số sản phẩm phần mềm CNTT/ hệ thống dữ liệu chỉ phục vụ trong nội bộ Tập đoàn: <span>0123</span>. (50) Trong đó số hệ thống dữ liệu là: <span></span> (51)</li>
-                                    <li className="checkList__item">Số sản phẩm phần mềm CNTT/ hệ thống dữ liệu chỉ phục vụ khách hàng Ngoài Tập đoàn: <span>0123</span>. (45) Trong đó số hệ thống dữ liệu là: <span>0123</span> (46)</li>
+                                    <li className="checkList__item">Số sản phẩm phần mềm CNTT/ hệ thống dữ liệu chỉ phục vụ khách hàng Ngoài Tập đoàn: <span>0123</span>. (52) Trong đó số hệ thống dữ liệu là: <span>0123</span> (53)</li>
                                 </ul>
 
+                                <div className="listChild__item"><div className="d-inline-block text underlineText">Chuyển giao, chấm dứt </div> phụ trách phát triển <span>0123</span> (54) sản phẩm phần mềm CNTT/ hệ thống dữ liệu.</div>
+                                <ul className="checkList">
+                                    <li className="checkList__item">Số sản phẩm phần mềm CNTT/ hệ thống dữ liệu chỉ phục vụ đơn vị: <span>0123</span>. (55) Trong đó số hệ thống dữ liệu là: <span>0123</span> (56)</li>
+                                    <li className="checkList__item">Số sản phẩm phần mềm CNTT/ hệ thống dữ liệu chỉ phục vụ trong nội bộ Tập đoàn: <span>0123</span>. (57) Trong đó số hệ thống dữ liệu là: <span>0123</span> (58)</li>
+                                    <li className="checkList__item">Số sản phẩm phần mềm CNTT/ hệ thống dữ liệu chỉ phục vụ khách hàng Ngoài Tập đoàn: <span>0123</span>. (59) Trong đó số hệ thống dữ liệu là: <span>0123</span> (60)</li>
+                                </ul>
+
+                                <div className="listChild__item"><div className="d-inline-block text underlineText">Tiếp nhận  </div> phát triển <span>0123</span> (61) sản phẩm phần mềm CNTT/ hệ thống dữ liệu.</div>
+                                <ul className="checkList">
+                                    <li className="checkList__item">Số sản phẩm phần mềm CNTT/ hệ thống dữ liệu chỉ phục vụ đơn vị: <span>0123</span>. (62) Trong đó số hệ thống dữ liệu là: <span>0123</span> (63)</li>
+                                    <li className="checkList__item">Số sản phẩm phần mềm CNTT/ hệ thống dữ liệu chỉ phục vụ trong nội bộ Tập đoàn: <span>0123</span>. (64) Trong đó số hệ thống dữ liệu là: <span>0123</span> (65)</li>
+                                    <li className="checkList__item">Số sản phẩm phần mềm CNTT/ hệ thống dữ liệu chỉ phục vụ khách hàng Ngoài Tập đoàn: <span>0123</span>. (66) Trong đó số hệ thống dữ liệu là: <span>0123</span> (67)</li>
+                                </ul>
                             </div>
+                        </li>
+
+                        <li> Về doanh thu: 
+                            <p>0123 (68) sản phẩm phần mềm CNTT/ Big Data có doanh thu. Tổng doanh thu lũy kế tới tháng hiện tại là <span>0123</span> (69) tỷ đồng, tăng (hoặc giảm) <span>0123%</span> (70) so với tháng trước (0123 (71) triệu/tỷ đồng). Trong đó:</p>
+                            <div className="listChild">
+                                <div className="listChild__item"><span>0123</span> (72) tỷ đồng đến từ các sản phẩm phần mềm CNTT, <span>0123</span> (73) tỷ đồng đến từ các hệ thống dữ liệu;</div>
+                                <div className="listChild__item"><span>0123%</span> (số tuyệt đối 0456/ 0789 tỷ đồng) (74) doanh thu đến từ các đơn vị nội bộ trong Tập đoàn, <span>0123% (số tuyệt đối 0456/ 0789)</span> (75) từ các khách hàng ngoài Tập đoàn.</div>
+                                
+                            </div>
+                        </li>
+
+                        <li> Về nỗ lực và chi phí outsource: 
+                            <div className="listChild">
+                                <div className="listChild__item">Trong tháng tỉ lệ nỗ lực outsource/ nỗ lực nội bộ là <span>xx% (yy/zz)</span> (76)</div>
+                                <div className="listChild__item">Lũy kế từ đầu năm tỉ lệ nỗ lực outsource/ nỗ lực nội bộ trong tháng là <span>xx% (yy/zz)</span> (77)</div>
+                                <div className="listChild__item">Chi phí outsource trong tháng đạt <span>0123</span> (78) triệu/ tỷ đồng; lũy kế từ đầu năm tới tháng hiện tại đạt <span>0123</span> (79) triệu/ tỷ đồng; đạt <span> 0123% (số tuyệt đối 0123/0123 tỷ đồng)</span> (80) kế hoạch năm đã đặt ra. </div>
+                                
+                            </div>
+                        </li>
+
+                        <li> Về tỉ lệ áp dụng CI/CD:
+                            <div className="listChild">
+                                <div className="listChild__item">Tỉ lệ sản phẩm phẩm phần mềm CNTT đạt CI/CD từ level 3 trở lên lũy kế tới thời điểm hiện tại đạt 0123% (số tuyệt đối <span>0456/ 0789)</span> (81)
+                                    <p>Trong đó: 0123 (82) sản phẩm đạt CI/CD level 3 trở lên trong năm 2023 (83).</p>
+                                    </div>
+                            </div>
+                        </li>
+
+                        <li> Về yêu cầu và lỗi hệ thống:
+                            <div className="listChild">
+                                <div className="listChild__item">KPI lỗi theo khối lượng công việc trong tháng là <span> … </span>(số lỗi/tổng MM) (84)</div>
+                                <ul className="checkList">
+                                    <li className="checkList__item checkList__item--round">KPI lỗi theo khối lượng công việc của nội bộ trong tháng là <span>… </span>(số lỗi/tổng MM) (85)</li>
+                                    <li className="checkList__item checkList__item--round">KPI lỗi theo khối lượng công việc của OS trong tháng là … (số lỗi/tổng MM) (86)</li>
+                                </ul>
+
+                                <div className="listChild__item">KPI lỗi theo khối lượng kloc trong tháng là … (số lỗi/tổng kloc) (87)</div>
+                                <ul className="checkList">
+                                    <li className="checkList__item checkList__item--round">KPI lỗi theo khối lượng kloc của nội bộ trong tháng là … (số lỗi/tổng kloc) (88)</li>
+                                    <li className="checkList__item checkList__item--round">KPI lỗi theo khối lượng kloc của OS trong tháng là … (số lỗi/tổng kloc) (89)</li>
+                                </ul>
+
+                                <div className="listChild__item">Tổng số lỗi sau triển khai là … (90), lỗi sau triển khai do OS là … (91)</div>
+                                <ul className="checkList">
+                                    <li className="checkList__item checkList__item--round">Tỉ lệ xử lý yêu cầu đúng hạn trong tháng đạt 0123% (số tuyệt đối 0456/ 0789) (92). Số ngày trung bình xử lý yêu cầu đạt <span>0123</span> (93) ngày.</li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li> Về hoạt động bàn giao vận hành khai thác:
+                            <p>Đã bàn giao X hệ thống/tổng số Y hệ thống (94) cần bàn giao hệ thống đã cung cấp dịch vụ cho người dùng cuối </p>
+                        </li>
+
+                        <li> Tỷ lệ sản phẩm phần mềm CNTT/ hệ thống dữ liệu tuân thủ đúng quy trình, quy định trong tháng tháng hiện tại đạt 0123% (số tuyệt đối 0456/ 0789) (95.1), cao hơn (hoặc thấp hơn) 0123% (95.2) so với tháng trước đó.
+                            <p> (Chi tiết trong Phụ lục 04: Danh sách sản phẩm phần mềm CNTT/ hệ thống dữ liệu)</p>
+                        </li>
+
+                    </ul>
+
+                    <h5 className="highlight__title">5. Lĩnh vực Khoa học Dữ liệu, Trí tuệ nhân tạo (Data Science, AI - DSAI)</h5>
+                    <ul>
+                        <li> Về use-case/ sản phẩm AI: Trong tháng Công ty/ Trung tâm thực hiện phát triển mới 0123 (96) use-case/ sản phẩm AI, lũy kế đang phụ trách phát triển 0456 (97) use-case/ sản phẩm AI. Trong đó 0123% (số tuyệt đối 0456/ 0789) (98) use-case/ sản phẩm AI chỉ phục vụ nội bộ Công ty/ Trung tâm, 0123% (số tuyệt đối 0456/ 0789) (99) use-case/ sản phẩm AI phục vụ các đơn vị nội bộ trong Tập đoàn, 0123% (số tuyệt đối 0456/ 0789) (100) use-case/ sản phẩm AI phục vụ các khách hàng ngoài Tập đoàn. Theo nhóm công nghệ:
+                            <div className="listChild">
+                                <div className="listChild__item">Xử lý ngôn ngữ tự nhiên (NLP): <span>0123</span> (101) use-case, chiếm 0456% (102)</div>
+                                <div className="listChild__item">Thị giác máy tính (CV): <span>0123</span> (103) use-case, chiếm 0456% (104)</div>
+                                <div className="listChild__item">Nhận diện mẫu (PR): <span>0123</span> (105) use-case, chiếm 0456% (106)</div>
+                                <div className="listChild__item">Robotic: 0123 (107) use-case, chiếm <span>0456%</span> (108)</div>
+                            </div>
+                        </li>
+
+                        <li>Về doanh thu: 0123 (109) use-case/ sản phẩm AI có doanh thu. Tổng doanh thu trong tháng là 0123 (110) tỷ đồng, tăng (hoặc giảm) 0123% (111) so với tháng trước đó (0123 (112) tỷ đồng). Trong đó <span>0123% (số tuyệt đối 0456/ 0789)</span> (113) từ các đơn vị nội bộ trong Tập đoàn, 0123% (số tuyệt đối 0456/ 0789) (114) từ các khách hàng ngoài Tập đoàn. 
+                        </li>
+                        <li>Các use case/ sản phẩm AI nổi bật:
                         </li>
                     </ul>
 
